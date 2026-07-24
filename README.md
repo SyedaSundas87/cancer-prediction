@@ -39,6 +39,10 @@
 
 ---
 
+App live link: 
+https://cancer-risk-frontend-production.up.railway.app/
+
+
 ## 🔬 About the Project
 
 Cancer Risk Predictor is a full-stack web application that bridges the gap between machine learning research and practical healthcare tooling. It takes 8 key patient health metrics as input, processes them through a trained XGBoost classification model, and returns a real-time cancer risk probability score along with the primary contributing risk factors.
